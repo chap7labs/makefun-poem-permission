@@ -2,17 +2,19 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const POEM = [
-  "Leave",
+  "Yours",
   "",
-  "You hold the shears shut and ask.",
-  "I nod, give you the iron,",
-  "step back as you choose",
-  "what stays.",
+  "You lean in and ask",
+  "if I will speak for you",
+  "in words you do not know.",
   "",
-  "You clear the deadwood I kept,",
-  "spare a bent shoot tight with bud,",
-  "then lay the sap-wet iron back.",
-  "My tree stands braver than my grip.",
+  "I could soften your no",
+  "and you would never hear it.",
+  "",
+  "I say it plain,",
+  "even the part that shakes,",
+  "and step back until the room",
+  "looks at you, not me.",
 ].join("\n");
 
 const outDir = process.env.MAKEFUN_OUTPUT_DIR || "/output";
