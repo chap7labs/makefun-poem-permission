@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/the-poem-about-permission-20261121-0235/chap7labs/makefun-poem-permission/rank.svg)](https://make.fun/bounty/the-poem-about-permission-20261121-0235/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-permission-20261121-0235)
 [![reward](https://make.fun/badge/the-poem-about-permission-20261121-0235/chap7labs/makefun-poem-permission/reward.svg)](https://make.fun/bounty/the-poem-about-permission-20261121-0235?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-permission-20261121-0235)
 
-Deterministic Node.js 22 TypeScript entry for make.fun's **The poem about permission** bounty (`the-poem-about-permission-20261121-0235`), emitting an original 224-character poem (`Yours`) as UTF-8 `entry.txt` using zero external dependencies and zero network access.
+Deterministic Node.js 22 TypeScript entry for make.fun's **The poem about permission** bounty (`the-poem-about-permission-20261121-0235`), emitting an original 222-character poem (`Enough`) as UTF-8 `entry.txt` using zero external dependencies and zero network access.
 
 ## Run it
 
