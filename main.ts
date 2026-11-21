@@ -2,20 +2,19 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const POEM = [
-  "Enough",
+  "The Eye",
   "",
-  '"May I pour?" I ask.',
-  '"To the blue band," you say,',
-  '"so I can lift it."',
+  "Once you threaded needles for me",
+  "without the lamp.",
   "",
-  "I tilt the heavy kettle,",
-  "watch dark tea climb,",
-  "hold back the rest.",
+  "Now the thread misses twice.",
+  '"May I?" I ask.',
+  'You look away: "Only the eye."',
   "",
-  "You lift the warm cup",
-  "steady to your lips.",
-  "What I left empty",
-  "kept it yours.",
+  "I slip the wet end through,",
+  "stop before the knot,",
+  "pass the needle back.",
+  "You pull the first stitch tight.",
 ].join("\n");
 
 const outDir = process.env.MAKEFUN_OUTPUT_DIR || "/output";
